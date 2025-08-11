@@ -61,3 +61,5 @@ Jupyter Notebook/Google Colab
   -- Focus on energy-efficient EVs (< 17 kWh/100 km) for eco-conscious buyers.
   -- Manufacturers should improve efficiency over battery size.
   -- Use battery capacity & range as primary marketing points.
+
+        **This project is part of an academic submission and is for educational purposes only.**
