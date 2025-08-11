@@ -17,12 +17,10 @@ The project covers data cleaning, exploration, statistical analysis, visualizati
       Tire Size, Max Speed, Boot Capacity,Acceleration 0-100 kph, Charging Power, Energy Consumption
 
 🛠 Tools & Libraries Used
-    Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy)
-
-Jupyter Notebook/Google Colab
-
- -- Statistical Methods (T-tests, Correlation Analysis)
- -- Visualization (Scatter plots, Box plots, KDE plots)
+    --  Jupyter Notebook/Google Colab
+    --  Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy)
+    --  Statistical Methods (T-tests, Correlation Analysis)
+    --  Visualization (Scatter plots, Box plots, KDE plots)
 
 📊 Project Tasks & Highlights
   1. Filter EVs by Customer Requirements
